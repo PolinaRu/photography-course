@@ -16,4 +16,4 @@
 
 **Просмотр**
 
- [Ссылка на работу](polinaru.github.io/photography-course/)
+ [Ссылка на работу](PolinaRu.github.io/photography-course/)
