@@ -1,0 +1,12 @@
+/*$back-color: #DF2626;
+$text-color: #fff;*/
+
+.footer {
+  margin: 0;
+  padding: 50px;
+  display: flex;
+  align-items: flex-start;
+
+  /*background-color: $back-color;
+  color: $text-color;*/
+}
