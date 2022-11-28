@@ -1,0 +1,13 @@
+.defblock__aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.defblock__aside_white {
+  min-height: 655px;
+}
+
+.defblock__aside_yellow {
+  min-height: 685px;
+}

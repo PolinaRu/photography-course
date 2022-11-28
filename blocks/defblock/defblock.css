@@ -1,0 +1,21 @@
+.defblock {
+  width: 100%;
+  background-color: white;
+  color: black;
+  position: relative;
+  min-height: 655px;
+
+  margin: 0;
+  padding: 50px;
+  box-sizing: border-box;
+
+  display: grid;
+  grid-template-columns: calc(50% - 93px) auto;
+  grid-template-areas:
+        "aside img"
+        "bottom bottom";
+}
+
+.defblock_yellow {
+  background-color: #FFCE00;
+}
