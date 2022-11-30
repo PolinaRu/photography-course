@@ -1,0 +1,13 @@
+.defblock__bottom-text {
+  --count-block: 4;
+
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  margin: 0;
+  padding: 0;
+  max-width: calc((100% - (var(--count-block) -1)*40px) / var(--count-block));
+}

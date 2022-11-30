@@ -16,3 +16,6 @@
 @import url(../blocks/defblock/__text/defblock__text.css);
 @import url(../blocks/defblock/__button/defblock__button.css);
 @import url(../blocks/defblock/__aside/defblock__aside.css);
+@import url(../blocks/defblock/__subtitle/defblock__subtitle.css);
+@import url(../blocks/defblock/__bottom-text/defblock__bottom-text.css);
+@import url(../blocks/defblock/__bottom/defblock__bottom.css);
